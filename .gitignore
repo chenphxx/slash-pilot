@@ -1,0 +1,4 @@
+# 忽略build文件夹
+/windows-client/build/
+# 忽略user配置文件
+/windows-client/FlightControl.pro.user
